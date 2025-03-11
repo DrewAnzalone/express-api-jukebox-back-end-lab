@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "jukebox testing",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
